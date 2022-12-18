@@ -1,2 +1,2 @@
-# GurkBot
+# Discord Bot
 Discord Music Bot
